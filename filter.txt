@@ -1,0 +1,1 @@
+pinterest.se##div[data-grid-item="true"]:has(div[title="Annons från"])
